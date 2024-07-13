@@ -1,0 +1,15 @@
+body {
+    font-family: 'Franklin Gothic Medium',sans-serif, s;
+    background-color:rgb(44, 146, 166);
+    margin: 0;
+    padding: 20px;
+}
+
+h1:hover{
+color: rgb(198, 10, 10);
+font-family: cursive;
+}
+
+table:hover{
+    background-color: brown;
+}

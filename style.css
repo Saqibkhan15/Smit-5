@@ -1,0 +1,40 @@
+body {
+    font-family: 'Franklin Gothic Medium',sans-serif, s;
+    background-color:rgb(221, 226, 227);
+    margin: 0;
+    padding: 20px;
+}
+.container{
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #c0a9a9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+    text-align: center;
+    font-size: 2.0rem;
+}
+
+.container ul li {
+    list-style: none;
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+
+.container ul li a{
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+.container ul li a:hover{
+    color: blue;
+}
+.heading :hover{
+color: rgb(57, 149, 230);
+}
